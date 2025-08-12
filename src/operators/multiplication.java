@@ -1,3 +1,5 @@
+package operators;
+
 import java.util.Scanner;
 public class multiplication {
     public static int mul(int a,int b){
