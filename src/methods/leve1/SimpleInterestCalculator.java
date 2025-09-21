@@ -27,7 +27,7 @@ public class SimpleInterestCalculator {
                 ", Rate of Interest " + rate +
                 " and Time " + time);
 
-        sc.close();
+
     }
 }
 
